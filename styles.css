@@ -1,7 +1,7 @@
 /* Main page styling for the weather app */
 body {
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #0f172a 0%, #1d4ed8 100%);
+    background: linear-gradient(135deg, #154b4d 0%, #d8681d 100%);
     min-height: 100vh;
 }
 
